@@ -17,20 +17,16 @@
 
 <h2>Tecnologias</h2>
 <h3>Frontend: React</h3>
+<p> Encontra-se na branch "frontend"</p>
 <h3>Backend: Laravel</h3>
 <h3>Para acessá-lo basta seguir estes comandos</h3>
 <p>Clonando o repositório</p>
 <p>git clone https://github.com/usuario/testeDevFullStack.git</p>
 <p>cd testeDevFullStack</p>
-<h3>Frontend (React)</h3>
-<p>cd frontend</p>
 <p>npm install</p>
-<h3>Backend (Laravel)</h3>
 <p>cd backend</p>
 <p>composer install</p>
 <h3>Para o rodar o Frontend</h3>
-<p>cd frontend</p>
 <p>npm start</p>
 <h3>Para rodar o Backend</h3>
-<p>cd backend</p>
 <p>php artisan serve</p>
